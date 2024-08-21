@@ -1,0 +1,234 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    
+}
+#all{
+    border: solid white;
+    border-radius: 45px;
+    display:block;
+    width: 305px;
+    height: 550px;
+    background-color: black;
+    position:absolute;
+    left: 525px;
+    top: 20px; 
+
+    
+}
+#clear{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(156, 152, 152);
+
+}
+#back{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(156, 152, 152);
+}
+#rem{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(156, 152, 152);
+    
+}
+#div{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkorange;
+}
+#num_7{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_8{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_9{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#mul{
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkorange;
+}
+#num_4{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_5{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_6{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#sub{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkorange;
+}
+#num_1{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_2{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num_3{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#add{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkorange;
+}
+#num_0{
+    font-size: 25px;
+    width: 105px;
+    height: 50px;
+    border-radius: 25px;
+    text-align: center;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white;
+}
+#num{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(66, 65, 65);
+    border: none;
+    color: white; 
+}
+#calculate{
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    color: white;
+    border: none;
+    background-color: darkorange;
+}
+#row_6{
+    position: absolute;
+    top: 515px;
+    left: 100px;
+    color: white;
+    font-size: 20px;
+}
+#row_5{
+    position: absolute;
+    top: 440px;
+    left: 50px;
+}
+#row_4{
+    position: absolute;
+    top: 380px;
+    left: 50px;
+}
+#row_3{
+    position: absolute;
+    top: 318px;
+    left: 50px;
+}
+#row_2{
+    position:absolute;
+    top: 255px;
+    left: 50px;
+}
+#row_1{
+    position: absolute;
+    top : 195px; 
+    left: 50px;
+}
+#result{
+    text-align: right;
+    border: none;
+    color: white;
+    background-color: black;
+    font-size: 40px;
+    width: 295px;
+    position: absolute;
+    top: 125px;
+    left: 5px;
+}
+
