@@ -1,21 +1,24 @@
+
+
 *{
     margin: 0px;
     padding: 0px;
-    background-color: black;
+    background-color: rgb(18, 16, 16);
     
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 #all{
     border: solid white;
     border-radius: 45px;
     display:block;
     width: 305px;
-    height: 550px;
-    background-color: black;
-    position:absolute;
-    left: 525px;
-    top: 20px; 
-
-    
+    height: 560px;
+    background-color: black;    
 }
 #clear{
     font-size: 20px;
@@ -189,46 +192,57 @@
     background-color: darkorange;
 }
 #row_6{
-    position: absolute;
-    top: 515px;
-    left: 100px;
+    position: relative;
+    top: 37%;
+    left: 35%;
     color: white;
     font-size: 20px;
+    background-color:transparent;
 }
 #row_5{
-    position: absolute;
-    top: 440px;
-    left: 50px;
+    position: relative;
+    top: 37%;
+    left: 15%;
+    background-color:transparent;
 }
 #row_4{
-    position: absolute;
-    top: 380px;
-    left: 50px;
+    position: relative;
+    top: 36%;
+    left: 15%;
+    background-color:transparent;
 }
 #row_3{
-    position: absolute;
-    top: 318px;
-    left: 50px;
+    position: relative;
+    top: 35%;
+    left: 15%;
+    background-color:transparent;
 }
 #row_2{
-    position:absolute;
-    top: 255px;
-    left: 50px;
+    position:relative;
+    top: 34%;
+    left: 15%;
+    background-color:transparent;
 }
 #row_1{
-    position: absolute;
-    top : 195px; 
-    left: 50px;
+    position: relative;
+    top : 33%; 
+    left: 15%;
+    background-color:transparent;
+
 }
 #result{
     text-align: right;
     border: none;
     color: white;
-    background-color: black;
+    background-color: transparent;
     font-size: 40px;
     width: 295px;
-    position: absolute;
-    top: 125px;
-    left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 5vh;
+    border-radius: 15px;
+    position: relative;
+    left: 2%;
+    top : 32%;
 }
-
